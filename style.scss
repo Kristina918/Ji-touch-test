@@ -89,11 +89,11 @@ a {
 
 	&__button-bg {
 		position: absolute;
-		width: 116px;
-		height: 44px;
+		width: 118px;
+		height: 42px;
 		top: 7px;
 		left: 7px;
-		border: none;
+		border: 1px solid #0077a0;
 		z-index: -1;
 		background-color: #0077a0;
 		transition: all 0.5s ease-out;
